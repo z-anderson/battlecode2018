@@ -1,2 +1,4 @@
-hello this is sarah's test
-oops sorry sarah is editing
+print("hello")
+
+print("AHEHEEHEHHEHE I HAVE COLORRRR HEEEEEE")
+print("ugh sarah my colors suck")
