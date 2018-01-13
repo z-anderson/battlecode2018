@@ -3,6 +3,7 @@ import random
 import sys
 import traceback
 import os
+# heyyyyyy testing :)
 
 gc = bc.GameController()
 directions = [bc.Direction.North, bc.Direction.Northeast, bc.Direction.East, bc.Direction.Southeast, bc.Direction.South, bc.Direction.Southwest, bc.Direction.West, bc.Direction.Northwest]
